@@ -1,0 +1,134 @@
+{"bikes": [
+    {
+      "mispar_rechev":7576724,
+      "tozeret_cd": 687,
+      "tozeret_nm": "סאן יאנג טיואן",
+      "tozeret_eretz_nm": "טאיוואן",
+      "degem_nm": "HD15V6",
+      "shnat_yitzur": 2002,
+      "sug_delek_cd": 1,
+      "sug_delek_nm": "בנזין",
+      "mishkal_kolel": 0
+    },
+    {
+    "mispar_rechev":8930406,
+    "tozeret_cd": 312,
+    "tozeret_nm": "סאן יאנג טיואן",
+    "tozeret_eretz_nm": "טאיוואן",
+    "degem_nm": "HD15V6",
+    "shnat_yitzur": 2002,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+  "mispar_rechev":8381351,
+  "tozeret_cd": 847,
+  "tozeret_nm": "קוואסאקי יפן",
+  "tozeret_eretz_nm": "יפן",
+  "degem_nm": "ER500A",
+  "shnat_yitzur": 2003,
+  "sug_delek_cd": 1,
+  "sug_delek_nm": "בנזין",
+  "mishkal_kolel": 0
+},
+  {
+    "mispar_rechev": 2177414,
+    "tozeret_cd": 476,
+    "tozeret_nm": "ימהה יפן",
+    "tozeret_eretz_nm": "יפן",
+    "degem_nm": "XP500(SJ03)",
+    "shnat_yitzur": 2005,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 2710501,
+    "tozeret_cd": 736,
+    "tozeret_nm": "פיאגיו",
+    "tozeret_eretz_nm": "איטליה",
+    "degem_nm": "(PX200E) VSX1T",
+    "shnat_yitzur": 1994,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 142643,
+    "tozeret_cd": 144,
+    "tozeret_nm": "ב ס א",
+    "tozeret_eretz_nm": "בריטניה",
+    "degem_nm": "אם 20",
+    "shnat_yitzur": 1946,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 9033000,
+    "tozeret_cd": 264,
+    "tozeret_nm": "דוקטי איטליה",
+    "tozeret_eretz_nm": "איטליה",
+    "degem_nm": "M408AA",
+    "shnat_yitzur": 2004,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 5677254,
+    "tozeret_cd": 779,
+    "tozeret_nm": "פנטיק",
+    "tozeret_eretz_nm": "איטליה",
+    "degem_nm": "פנטיק תי אקס 190",
+    "shnat_yitzur": 1984,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 5303216,
+    "tozeret_cd": 143,
+    "tozeret_nm": "ב מ וו גרמניה",
+    "tozeret_eretz_nm": "גרמניה",
+    "degem_nm": "F-650 DAKAR 0173",
+    "shnat_yitzur": 2000,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 5848515,
+    "tozeret_cd": 333,
+    "tozeret_nm": "הארלי דיוידסון",
+    "tozeret_eretz_nm": "ארה",
+    "degem_nm": "1EFL",
+    "shnat_yitzur": 1990,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 5412158,
+    "tozeret_cd": 468,
+    "tozeret_nm": "יווה",
+    "tozeret_eretz_nm": "צ'כוסלובקיה",
+    "degem_nm": "638",
+    "shnat_yitzur": 1988,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  },
+  {
+    "mispar_rechev": 5000559,
+    "tozeret_cd": 333,
+    "tozeret_nm": "הארלי דיוידסון",
+    "tozeret_eretz_nm": "ארה",
+    "degem_nm": "1CAP1",
+    "shnat_yitzur": 1989,
+    "sug_delek_cd": 1,
+    "sug_delek_nm": "בנזין",
+    "mishkal_kolel": 0
+  }]
+}

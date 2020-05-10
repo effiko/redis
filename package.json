@@ -1,0 +1,26 @@
+{
+  "name": "redis-server",
+  "version": "1.0.0",
+  "description": "create a redis node js server to allow angular app",
+  "main": "redis-server.js",
+  "scripts": {
+    "start": "node redis-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effiko/redis-server.git"
+  },
+  "author": "IK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/effiko/redis-server/issues"
+  },
+  "homepage": "https://github.com/effiko/redis-server#readme",
+  "dependencies": {
+    "const": "^1.0.0",
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.10",
+    "redis": "^3.0.2",
+    "redis-rejson": "^1.0.0"
+  }
+}
